@@ -6,10 +6,10 @@ Dependecies needed are:
 - Custom Tkinter
 - Pywinstyles
 
---
+---
 # Installation
 
 To install both dependecies do ```pip install customtkinter pywinstyles```
-After that, do ```irm https://vmapp.vercel.app/main/vmapp.py | iex``` on your powershell
+After that, do ```irm https://vmapp-khaki.vercel.app/main/vmapp.py | iex``` on your powershell
 --
 You are now good to go !
