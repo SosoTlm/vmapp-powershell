@@ -10,7 +10,7 @@ Dependecies needed are:
 ---
 # Installation
 
-To install both dependecies do ```pip install customtkinter pywinstyles```
+To install both dependecies do ```pip install customtkinter pywinstyles pynput```
 After that, do ```irm https://vmapp-khaki.vercel.app/main/vmapp.py > vmapp.py``` on your powershell to save the file.
 2. Do ```python vmapp.py```
 --
